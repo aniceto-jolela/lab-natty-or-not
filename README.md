@@ -43,8 +43,7 @@ Descreva como você criou o conteúdo
 3. Usei o `D-ID` para selecionar o avatar e criar o vídeo com o áudio feito no `Elevenlabs`.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
-![Áudio](assets/AIs - Generativas.mp3)
+[Vídeo](https://studio.d-id.com/share?id=bbc287bc14c0c4bd16b1282b2aa2a382&utm_source=copy)
 
 
 ## 💭 Reflexão
